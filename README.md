@@ -1,28 +1,186 @@
-<h1 align="center">Hi 👋, I'm Rizky Fadhilah</h1>
-<h3 align="center">Passionate about Data Science, Machine Learning, and Data Visualization.</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyyfadhilahh&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyyfadhilahh" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizky%20Fadhilah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=58&descSize=18" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkyyfadhilahh" alt="rizkyyfadhilahh" /></a> </p>
+<a href="https://github.com/rizkyyfadhilahh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Turning+raw+data+into+actionable+insights;Machine+Learning+%E2%80%A2+Deep+Learning+%E2%80%A2+Data+Viz;Python+%E2%80%A2+TensorFlow+%E2%80%A2+PyTorch+%E2%80%A2+SQL" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://rizkyfadhilah-portfolio.vercel.app/](https://rizkyfadhilah-portfolio.vercel.app/)
+<br/>
 
-- 📫 How to reach me **rizkifadhilah123@gmail.com**
+<a href="https://rizkyfadhilah-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/rizky-fadhilah123/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://kaggle.com/rizkyfadhilahjhhhh">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
+<a href="mailto:rizkifadhilah123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/rizkyyfadhilah">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rizky-fadhilah123/](https://www.linkedin.com/in/rizky-fadhilah123/)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rizky-fadhilah123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky-fadhilah123" height="30" width="40" /></a>
-<a href="https://kaggle.com/rizkyfadhilahjhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rizkyfadhilahjhhhh" height="30" width="40" /></a>
-<a href="https://instagram.com/rizkyyfadhilah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizkyyfadhilah" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=rizkyyfadhilahh&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/rizkyyfadhilahh?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyyfadhilahh&show_icons=true&locale=en&layout=compact" alt="rizkyyfadhilahh" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkyyfadhilahh&show_icons=true&locale=en" alt="rizkyyfadhilahh" /></p>
+<!-- ===================== ABOUT ===================== -->
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkyyfadhilahh&" alt="rizkyyfadhilahh" /></p>
+```yaml
+name: Rizky Fadhilah
+role: Data Science & Machine Learning
+location: Indonesia 🇮🇩
+focus:
+  - Building end-to-end machine learning pipelines
+  - Predictive modeling & statistical analysis
+  - Data storytelling through clear visualization
+open_to: Collaboration · Internship · Freelance projects
+```
+
+- 🔬 I enjoy turning messy, real-world datasets into models and dashboards that people can actually act on.
+- 📊 Strong interest in **exploratory data analysis**, **feature engineering**, and **data visualization**.
+- 🚀 All of my projects live at **[rizkyfadhilah-portfolio.vercel.app](https://rizkyfadhilah-portfolio.vercel.app/)**
+- 📄 More about my experience on **[LinkedIn](https://www.linkedin.com/in/rizky-fadhilah123/)**
+- 📫 Reach me at **rizkifadhilah123@gmail.com**
+- 💬 Ask me about `Python`, `Pandas`, `Scikit-learn`, `TensorFlow`, or anything data related
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="middle"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Data & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle"><b>Tools & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Link |
+|:--|:--|:--|:--:|
+| **Project Name 1** | One-line summary of the problem and the result you delivered. | `Python` `scikit-learn` | [Repo](#) |
+| **Project Name 2** | One-line summary of the problem and the result you delivered. | `TensorFlow` `OpenCV` | [Repo](#) |
+| **Project Name 3** | One-line summary of the problem and the result you delivered. | `Pandas` `Streamlit` | [Repo](#) |
+
+</div>
+
+> 💡 See the full collection on my **[portfolio website](https://rizkyfadhilah-portfolio.vercel.app/)**.
+
+<br/>
+
+<!-- ===================== STATS ===================== -->
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rizkyyfadhilahh&show_icons=true&count_private=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkyyfadhilahh&layout=compact&langs_count=8&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rizkyyfadhilahh&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF6F00&currStreakLabel=36BCF7&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyyfadhilahh&theme=react-dark&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=ffffff&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rizkyyfadhilahh&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+### 🤝 Let's build something with data
+
+I'm always open to interesting conversations, collaborations, and new opportunities.
+
+<a href="mailto:rizkifadhilah123@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-36BCF7?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Say hello" />
+</a>
+
+<br/><br/>
+
+<i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+
+</div>
