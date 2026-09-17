@@ -124,20 +124,6 @@ open_to: Collaboration · Internship · Freelance projects
 </table>
 
 <br/>
-
-<!-- ===================== PROJECTS ===================== -->
-## 📌 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech | Link |
-|:--|:--|:--|:--:|
-| **Project Name 1** | One-line summary of the problem and the result you delivered. | `Python` `scikit-learn` | [Repo](#) |
-| **Project Name 2** | One-line summary of the problem and the result you delivered. | `TensorFlow` `OpenCV` | [Repo](#) |
-| **Project Name 3** | One-line summary of the problem and the result you delivered. | `Pandas` `Streamlit` | [Repo](#) |
-
-</div>
-
 > 💡 See the full collection on my **[portfolio website](https://rizkyfadhilah-portfolio.vercel.app/)**.
 
 <br/>
