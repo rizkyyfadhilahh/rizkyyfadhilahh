@@ -122,8 +122,3 @@ open_to: Collaboration · Internship · Freelance projects
     </td>
   </tr>
 </table>
-
-<br/>
-> 💡 See the full collection on my **[portfolio website](https://rizkyfadhilah-portfolio.vercel.app/)**.
-
-<br/>
